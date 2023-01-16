@@ -5,8 +5,8 @@
     <key width="1.7" key0="tab"/>
     <key width="1.7" key0="ctrl"/>
     <key width="1.7" key0="alt"/>
-    <key width="1.5" key0="up" key4="left" edgekeys="true"/>
-    <key width="1.5" key0="down" key4="right" edgekeys="true"/>
+    <key width="1.6" key0="up" key4="left" edgekeys="true"/>
+    <key width="1.6" key0="down" key4="right" edgekeys="true"/>
   </row>
   <row>
     <key key0="q" key2="1" key4="esc"/>
