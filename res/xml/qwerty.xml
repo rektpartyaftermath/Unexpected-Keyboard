@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<keyboard>
-   <row>
-    <row height="0.6">
+<keyboard bottom_row="false">
+  <row height="0.6">
     <key width="2.5" key0="tab" key1="switch_numeric" edgekeys="true"/>
     <key width="1.7" key0="left" key3="home" edgekeys="true"/>
     <key width="1.4" key1="up" key4="down" edgekeys="true"/>
