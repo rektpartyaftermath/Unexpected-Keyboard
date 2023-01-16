@@ -8,18 +8,6 @@
     <key width="1.2" key1="shift" key4="ctrl" key0="fn" edgekeys="true"/>
     <key width="1.5" key0="backspace" key1="delete" key4="delete" edgekeys="true"/>
   </row>
-  <row height="0.6">
-    <key key0="1"/>
-    <key key0="2"/>
-    <key key0="3"/>
-    <key key0="4"/>
-    <key key0="5"/>
-    <key key0="6"/>
-    <key key0="7"/>
-    <key key0="8"/>
-    <key key0="9"/>
-    <key key0="0"/>
-  </row>
   <row height="0.9">
     <key key0="q" key4="`" key2="~" />
     <key key0="w" key3="!" key2="\@"/>
